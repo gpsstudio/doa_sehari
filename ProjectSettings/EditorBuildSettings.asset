@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/first.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/mainM.unity
+    guid: dd3a650096e36d549b4f49fc0c2cbcd7
+  - enabled: 1
+    path: Assets/Scenes/doa/doa sebelum tidur.unity
+    guid: ab2e5c83f73544c40a324782c8d45edf
+  - enabled: 1
+    path: Assets/Scenes/doa/doa bangun tidur.unity
+    guid: ee9b6db73b00bbe4eabf0836307f0554
+  - enabled: 1
+    path: Assets/Scenes/doa/doa Kecerdasan Berfikir.unity
+    guid: 9eb1fc0771724e54b9440b645c4de323
+  - enabled: 1
+    path: Assets/Scenes/doa/doa pagi hari.unity
+    guid: dafa27611a7a58c4d83b0c1a12e725f4
+  - enabled: 1
+    path: Assets/Scenes/doa/doa masuk kamar mandi.unity
+    guid: e81ae26af5a8dfe4a8c09b2e650f846e
+  - enabled: 1
+    path: Assets/Scenes/doa/doa keluar kamar mandi.unity
+    guid: 57fa162a55c9ee0499de28becc7f247d
+  - enabled: 1
+    path: Assets/Scenes/doa/doa masuk masjid.unity
+    guid: b8c276ba295c47a45978ec8b38a85c36
+  - enabled: 1
+    path: Assets/Scenes/doa/doa keluar masjid.unity
+    guid: 4fb0a7e93c2e91f4f90fcaa5229fbb0e
+  - enabled: 1
+    path: Assets/Scenes/doa/doa masuk rumah.unity
+    guid: 310c534683b39cc4fb12d2dd66254193
+  - enabled: 1
+    path: Assets/Scenes/doa/doa keluar rumah.unity
+    guid: 9f183d8ea40fbf741872155040f967a6
+  - enabled: 1
+    path: Assets/Scenes/doa/doa bercermin.unity
+    guid: 5df30e6dcd107cf4f974ab3cf3c6ee63
+  - enabled: 1
+    path: Assets/Scenes/doa/doa kedua orang tua.unity
+    guid: 20036c16dc97a16408933682f6e63b39
+  - enabled: 1
+    path: Assets/Scenes/doa/doa turun hujan.unity
+    guid: c66803dfb1be8a541a302ce173d9f871
+  - enabled: 1
+    path: Assets/Scenes/doa/doa mendengar petir.unity
+    guid: 311f5f62e598a8d429ef5b6135d00b49
+  - enabled: 1
+    path: Assets/Scenes/doa/doa memakai pakaian.unity
+    guid: a3afa692981cf7245a61cf1564c8886e
+  - enabled: 1
+    path: Assets/Scenes/doa/doa melepas pakaian.unity
+    guid: 2348c3c191ee86e4b96825cf6372563a
+  - enabled: 1
+    path: Assets/Scenes/doa/doa sebelum makan.unity
+    guid: 561fe20205f75a24f9d0e5089edce1aa
+  - enabled: 1
+    path: Assets/Scenes/doa/doa sesudah makan.unity
+    guid: 70fb1680e4a4c3a418d0c84752267d97
+  - enabled: 1
+    path: Assets/Scenes/doa/doa sebelum belajar.unity
+    guid: 4685fcc09744e204cb9e9fa78287ad5e
+  - enabled: 1
+    path: Assets/Scenes/doa/doa ketika lupa.unity
+    guid: 76d4f12f75b5dd64fb2b1cc2436b3650
+  - enabled: 1
+    path: Assets/Scenes/doa/doa akan bepergian.unity
+    guid: 5868e4e905d69ff4ab0621857cb73f13
+  - enabled: 1
+    path: Assets/Scenes/doa/doa naik kendaraan.unity
+    guid: d895b53cb2d8c4c4f862286c1ee663df
+  - enabled: 1
+    path: Assets/Scenes/doa/doa naik kendaraan air.unity
+    guid: 4ec97c12846dc6f4b8434c36a77a00be
+  - enabled: 1
+    path: Assets/Scenes/doa/doa naik kendaraan darat.unity
+    guid: 8d8af4e139e01844c8ef943ef4eb2f8a
+  - enabled: 1
+    path: Assets/Scenes/doa/doa terhindar dari sakit mata.unity
+    guid: f49de5d2d6c8a7b47b82fd61b4cf7290
+  - enabled: 1
+    path: Assets/Scenes/doa/doa terhindar dari ganguan ular.unity
+    guid: 3d09b8b6af79c0744b218798c3676586
+  - enabled: 1
+    path: Assets/Scenes/doa/doa mimpi buruk.unity
+    guid: 9528471a689a0da40991c61b9a217d66
+  - enabled: 1
+    path: Assets/Scenes/doa/doa mudah paham dan hafal.unity
+    guid: b7122494e3d53004fa27e9b1183da845
+  - enabled: 1
+    path: Assets/Scenes/doa/doa sebelum wudhu.unity
+    guid: 8efa09b7a8137f84bbc2162e045d15a1
+  - enabled: 1
+    path: Assets/Scenes/doa/doa sebelum mandi.unity
+    guid: 67af7a08ec0383649b3834c39ae40912
+  - enabled: 1
+    path: Assets/Scenes/doa/doa mendapatkan ide yang baik.unity
+    guid: c08af7562ed10b44ea58257c0706a8a0
+  - enabled: 1
+    path: Assets/Scenes/last.unity
+    guid: 83929240fb0b02c47a3bcfa2f9c7ca51
+  - enabled: 1
+    path: Assets/Scenes/mainMads.unity
+    guid: d07afe3f86741ff43805bdb58849768e
+  m_configObjects: {}
